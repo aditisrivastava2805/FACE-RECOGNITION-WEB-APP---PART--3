@@ -1,0 +1,17 @@
+body
+{
+ background-color: #e5eb34;   
+}
+
+.heading
+{
+ width: 80%;
+ font-size: medium;   
+}
+
+#camera
+{
+ border: 2px dashed #03fca9;
+ width: 400px;
+ height: 400px;   
+}
